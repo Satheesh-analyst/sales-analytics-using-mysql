@@ -114,7 +114,7 @@ Through this project, I strengthened my understanding of:
 
 ## 👨‍💻 Author
 
-**Satheesh )**
+**Satheesh**
 
 Aspiring Data Analyst
 
