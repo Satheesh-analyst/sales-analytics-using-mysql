@@ -29,35 +29,6 @@ The goal of this project is to explore a retail sales database and answer busine
 
 ---
 
-## 📂 Project Structure
-
-
-sales-analytics-using-mysqls/
-│
-├── Dataset/
-│   ├── customers.csv
-│   ├── products.csv
-│   └── sales.csv
-│
-├── SQL Queries/
-│   ├── 01_database_exploration.sql
-│   ├── 02_dimensions_exploration.sql
-│   ├── 03_date_range_analysis.sql
-│   ├── 04_key_metrics.sql
-│   ├── 05_magnitude_analysis.sql
-│   ├── 06_change_over_time_analysis.sql
-│   ├── 07_cumulative_analysis.sql
-│   ├── 08_performance_analysis.sql
-│   ├── 09_customer_segmentation.sql
-│   ├── 10_product_segmentation.sql
-│   ├── 11_part_to_whole_analysis.sql
-│   ├── 12_customer_report.sql
-│   └── 13_product_report.sql
-│
-├── README.md
-└── LICENSE
-
-```
 
 ## 📚 SQL Concepts Covered
 
